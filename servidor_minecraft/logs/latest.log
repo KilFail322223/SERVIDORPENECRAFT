@@ -1148,3 +1148,247 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [14Jan2025 02:10:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2385.500000, 174.000000, -736.500000]
 [14Jan2025 02:10:35.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt walked into a cactus whilst trying to escape KilFail
 [14Jan2025 02:10:35.604] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:11:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was doomed to fall
+[14Jan2025 02:11:13.898] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:11:17.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:11:19.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -0.8371541891228844,-10.514545478306303,-0.29884163960923615
+[14Jan2025 02:11:19.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Ice Dragon
+[14Jan2025 02:11:19.508] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:11:30.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2390.500000, 176.000000, -736.500000]
+[14Jan2025 02:11:30.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2390.500000, 176.000000, -736.500000]
+[14Jan2025 02:11:35.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was frozen by Ice Dragon
+[14Jan2025 02:11:36.056] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:11:38.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:11:52.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Ice Dragon
+[14Jan2025 02:11:52.994] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 02:11:53.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to KilFail]
+[14Jan2025 02:11:56.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to ChebyMCfire]
+[14Jan2025 02:11:57.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to ChebyMCfire]
+[14Jan2025 02:12:00.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Ice Dragon
+[14Jan2025 02:12:00.046] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:12:06.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Ice Dragon
+[14Jan2025 02:12:06.907] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:12:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Dragonslayer]
+[14Jan2025 02:12:10.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:12:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to KilFail]
+[14Jan2025 02:12:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:12:23.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Timed out
+[14Jan2025 02:12:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[14Jan2025 02:13:08.557] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:61507] logged in with entity id 70811 at (2392.943209365965, 192.5, -725.6043868467788)
+[14Jan2025 02:13:08.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[14Jan2025 02:14:23.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Timed out
+[14Jan2025 02:14:23.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[14Jan2025 02:14:39.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2355, y=134, z=-769} BlockPos{x=2354, y=133, z=-769}
+[14Jan2025 02:15:15.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:15:16.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:61544] logged in with entity id 71685 at (2393.4778485410015, 191.7531999805212, -723.9020668118852)
+[14Jan2025 02:15:16.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[14Jan2025 02:15:56.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to KilFail]
+[14Jan2025 02:16:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Steve French!]
+[14Jan2025 02:17:34.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Sea Serpent
+[14Jan2025 02:17:34.863] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:17:44.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -8.105286760504896,0.2651812825025388,-6.436519811101448
+[14Jan2025 02:18:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Sea Serpent
+[14Jan2025 02:18:11.760] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 02:18:16.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to ChebyMCfire]
+[14Jan2025 02:18:21.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Sea Serpent
+[14Jan2025 02:18:21.456] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:18:25.179] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/75000, l='ServerLevel[world]', x=2212.50, y=47.00, z=-508.50]
+[14Jan2025 02:18:41.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -10.274421061572411,0.0,-0.7577184148218521
+[14Jan2025 02:18:54.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Sea Serpent
+[14Jan2025 02:18:54.510] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 02:18:59.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2450.500000, 146.000000, -758.500000]
+[14Jan2025 02:18:59.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Not The Hero!]
+[14Jan2025 02:19:02.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2397.500000, 194.000000, -729.500000]
+[14Jan2025 02:19:05.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2081.500000, 62.000000, -646.500000]
+[14Jan2025 02:19:08.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 9.354122211255344,0.12199141770589961,-3.6847481952707994
+[14Jan2025 02:19:15.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Sea Serpent
+[14Jan2025 02:19:15.609] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:19:40.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Overkill]
+[14Jan2025 02:21:03.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Ashes 'n Bones]
+[14Jan2025 02:21:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Zombie
+[14Jan2025 02:21:50.110] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:22:09.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KilFail lost connection: Disconnected
+[14Jan2025 02:22:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail left the game
+[14Jan2025 02:22:36.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Timed out
+[14Jan2025 02:22:36.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[14Jan2025 02:23:22.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:61610] logged in with entity id 80038 at (2078.7850850431005, 63.0, -681.543285123186)
+[14Jan2025 02:23:22.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[14Jan2025 02:23:35.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was killed by Cecaelia using magic
+[14Jan2025 02:23:35.994] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:23:56.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2078.500000, 62.000000, -679.500000]
+[14Jan2025 02:24:10.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2078.500000, 62.000000, -679.500000]
+[14Jan2025 02:24:39.526] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Jan2025 02:24:52.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -2.4071710924777108,-5.745966364907098,-8.180413656221162
+[14Jan2025 02:25:13.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to Luck_Volt]
+[14Jan2025 02:25:17.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> hol
+[14Jan2025 02:25:43.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has completed the challenge [Free Willy]
+[14Jan2025 02:26:08.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 10.195946823363556,0.41290928041701136,0.39405384679068334
+[14Jan2025 02:26:31.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> voy lageadísimo
+[14Jan2025 02:26:32.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> XD
+[14Jan2025 02:26:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> XD
+[14Jan2025 02:27:18.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> loco mi internet de mierda no aguanta mc con mods y vc :,v
+[14Jan2025 02:27:24.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> ni modo bro
+[14Jan2025 02:27:33.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> tocó hacer de mimo
+[14Jan2025 02:27:33.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> dea
+[14Jan2025 02:27:36.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> XD
+[14Jan2025 02:27:41.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -6.238889616112374,-0.07544406518948676,8.077686279778732
+[14Jan2025 02:27:42.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[14Jan2025 02:27:42.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[14Jan2025 02:27:42.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[14Jan2025 02:28:26.766] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[14Jan2025 02:28:26.766] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[14Jan2025 02:28:26.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[14Jan2025 02:28:26.767] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[14Jan2025 02:28:31.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:61651] logged in with entity id 85804 at (3318.4598616733842, 64.25220334025373, -203.25223750714542)
+[14Jan2025 02:28:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[14Jan2025 02:28:36.162] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[14Jan2025 02:28:36.162] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[14Jan2025 02:28:43.484] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1291, y=-58, z=182}
+[14Jan2025 02:28:43.503] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[14Jan2025 02:28:43.504] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=101}
+[14Jan2025 02:28:45.825] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[14Jan2025 02:28:45.826] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1312, y=-58, z=103}
+[14Jan2025 02:28:48.847] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1291, y=-58, z=182}
+[14Jan2025 02:28:48.848] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1307, y=-58, z=78}
+[14Jan2025 02:28:48.878] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1263, y=-58, z=198}
+[14Jan2025 02:28:48.878] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1263, y=-58, z=196}
+[14Jan2025 02:28:48.878] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1262, y=-58, z=196}
+[14Jan2025 02:28:48.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1261, y=-58, z=200}
+[14Jan2025 02:28:48.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1262, y=-58, z=200}
+[14Jan2025 02:28:48.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1261, y=-58, z=198}
+[14Jan2025 02:28:48.879] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1264, y=-58, z=200}
+[14Jan2025 02:29:26.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to Luck_Volt]
+[14Jan2025 02:29:30.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Truth in Legend]
+[14Jan2025 02:32:19.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> saldré bro
+[14Jan2025 02:32:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> va
+[14Jan2025 02:32:24.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> suerte
+[14Jan2025 02:32:29.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> pa ver si puedo resolver lo del mierdi internet
+[14Jan2025 02:32:29.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> :,v
+[14Jan2025 02:32:31.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Disconnected
+[14Jan2025 02:32:31.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[14Jan2025 02:33:54.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has completed the challenge [Fury of The Frost]
+[14Jan2025 02:34:15.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:34:15.937] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:34:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:34:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:34:32.099] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:34:35.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:34:42.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:34:42.743] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:34:46.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:34:51.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:34:52.245] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:34:55.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:35:01.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:35:01.706] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:35:04.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:35:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:35:10.108] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:35:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:35:18.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wechuge
+[14Jan2025 02:35:18.447] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:35:21.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2839.500000, 76.000000, 258.500000]
+[14Jan2025 02:35:24.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Ashes 'n Bones]
+[14Jan2025 02:35:33.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has completed the challenge [Metephor? Never heard of it!]
+[14Jan2025 02:35:50.728] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1317, y=-56, z=197}
+[14Jan2025 02:35:50.973] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1307, y=-58, z=78}
+[14Jan2025 02:35:52.678] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1263, y=-58, z=198}
+[14Jan2025 02:35:52.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1263, y=-58, z=196}
+[14Jan2025 02:35:52.680] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1262, y=-58, z=196}
+[14Jan2025 02:35:52.680] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1261, y=-58, z=200}
+[14Jan2025 02:35:52.681] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1262, y=-58, z=200}
+[14Jan2025 02:35:52.681] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1261, y=-58, z=198}
+[14Jan2025 02:35:52.682] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1264, y=-58, z=200}
+[14Jan2025 02:36:01.155] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[14Jan2025 02:36:01.156] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[14Jan2025 02:37:58.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Ice Dragon
+[14Jan2025 02:37:58.888] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:38:13.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was frozen by Ice Dragon
+[14Jan2025 02:38:14.196] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:38:23.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2759.500000, 68.000000, 132.500000]
+[14Jan2025 02:38:29.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was frozen by Ice Dragon
+[14Jan2025 02:38:29.697] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:38:33.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2759.500000, 68.000000, 132.500000]
+[14Jan2025 02:38:42.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Ice Dragon
+[14Jan2025 02:38:42.400] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:38:45.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2759.500000, 68.000000, 132.500000]
+[14Jan2025 02:38:57.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was turned to ice by Ice Dragon
+[14Jan2025 02:38:57.950] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:39:01.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2759.500000, 68.000000, 132.500000]
+[14Jan2025 02:39:16.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was frozen by Ice Dragon
+[14Jan2025 02:39:16.341] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:39:20.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2759.500000, 68.000000, 132.500000]
+[14Jan2025 02:46:03.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was killed by Witch using magic
+[14Jan2025 02:46:03.390] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:46:15.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2859.500000, 78.000000, 447.500000]
+[14Jan2025 02:46:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was shot by Skeleton
+[14Jan2025 02:46:40.753] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:46:44.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2859.500000, 78.000000, 447.500000]
+[14Jan2025 02:47:24.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Cheesed to Meet You]
+[14Jan2025 02:48:16.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Cyclops
+[14Jan2025 02:48:16.840] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:48:24.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2882.500000, 73.000000, 791.500000]
+[14Jan2025 02:49:18.514] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Jan2025 02:49:18.516] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Jan2025 02:49:18.517] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Jan2025 02:49:18.983] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3210, y=-65, z=849} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 02:49:18.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3210, y=-65, z=849}
+[14Jan2025 02:49:18.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3210, y=-65, z=851} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 02:49:18.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3210, y=-65, z=851}
+[14Jan2025 02:49:18.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3210, y=-65, z=852} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 02:49:18.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3210, y=-65, z=852}
+[14Jan2025 02:49:18.985] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3210, y=-65, z=848} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 02:49:18.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3210, y=-65, z=848}
+[14Jan2025 02:49:18.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3209, y=-65, z=849} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 02:49:18.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3209, y=-65, z=849}
