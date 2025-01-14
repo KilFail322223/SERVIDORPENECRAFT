@@ -4,5 +4,17 @@
     "name": "KilFail",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b8736caa-2d0b-3d91-a120-e71274a332b5",
+    "name": "ChebyMCfire",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f6f4b094-5d1a-31ad-85ac-9f17588dd681",
+    "name": "Luck_Volt",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
