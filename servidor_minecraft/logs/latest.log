@@ -1405,3 +1405,5 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [14Jan2025 03:01:11.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by The Somnolence
 [14Jan2025 03:01:12.217] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
 [14Jan2025 03:01:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2672.500000, 64.000000, 1111.500000]
+[14Jan2025 03:08:10.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luck_Volt lost connection: Disconnected
+[14Jan2025 03:08:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt left the game

@@ -10953,3 +10953,9 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [14Jan2025 03:01:12.196] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2689, y:63, z:1110, dim:minecraft:overworld]
 [14Jan2025 03:01:12.217] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
 [14Jan2025 03:01:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2672.500000, 64.000000, 1111.500000]
+[14Jan2025 03:02:42.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:02:42.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:07:42.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 03:07:42.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:08:10.135] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luck_Volt lost connection: Disconnected
+[14Jan2025 03:08:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt left the game
