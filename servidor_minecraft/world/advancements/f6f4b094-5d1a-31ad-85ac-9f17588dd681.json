@@ -122,7 +122,9 @@
       "minecraft:frozen_ocean": "2025-01-14 02:22:17 +0000",
       "minecraft:windswept_forest": "2025-01-14 01:08:58 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-14 01:56:00 +0000",
-      "minecraft:snowy_beach": "2025-01-14 02:23:38 +0000"
+      "minecraft:snowy_beach": "2025-01-14 02:23:38 +0000",
+      "minecraft:savanna": "2025-01-14 02:49:19 +0000",
+      "minecraft:plains": "2025-01-14 02:48:50 +0000"
     },
     "done": false
   },
@@ -162,6 +164,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-01-14 02:56:53 +0000"
+    },
+    "done": true
+  },
   "cnc:wendigoadvancement": {
     "criteria": {
       "wendigoadvancement_0": "2025-01-14 01:57:03 +0000"
@@ -171,6 +179,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-01-14 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "cnc:gooseadvancement": {
+    "criteria": {
+      "gooseadvancement_0": "2025-01-14 02:57:18 +0000"
     },
     "done": true
   },

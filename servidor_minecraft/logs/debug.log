@@ -10933,3 +10933,23 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [14Jan2025 02:49:18.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3210, y=-65, z=848}
 [14Jan2025 02:49:18.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3209, y=-65, z=849} but found not block entity block Block{minecraft:air} at location
 [14Jan2025 02:49:18.986] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=3209, y=-65, z=849}
+[14Jan2025 02:52:42.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:52:42.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:53:08.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/107697, l='ServerLevel[world]', x=2999.95, y=68.00, z=1133.70] died, message: 'Villager was slain by Sprinter'
+[14Jan2025 02:56:53.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Book of Monsters]
+[14Jan2025 02:57:18.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Peace Was Never An Option]
+[14Jan2025 02:57:42.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:57:42.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 03:00:04.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was energized by Lightning Dragon
+[14Jan2025 03:00:04.902] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2672, y:64, z:1111, dim:minecraft:overworld]
+[14Jan2025 03:00:04.910] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 03:00:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2672.500000, 64.000000, 1111.500000]
+[14Jan2025 03:00:31.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Lightning Dragon
+[14Jan2025 03:00:31.625] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2702, y:64, z:1120, dim:minecraft:overworld]
+[14Jan2025 03:00:31.635] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 03:00:35.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2672.500000, 64.000000, 1111.500000]
+[14Jan2025 03:00:56.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Night Night]
+[14Jan2025 03:01:11.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by The Somnolence
+[14Jan2025 03:01:12.196] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2689, y:63, z:1110, dim:minecraft:overworld]
+[14Jan2025 03:01:12.217] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 03:01:15.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2672.500000, 64.000000, 1111.500000]
