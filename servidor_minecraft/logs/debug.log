@@ -8476,3 +8476,267 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [14Jan2025 01:40:26.683] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:1393, y:63, z:-139, dim:minecraft:overworld]
 [14Jan2025 01:40:26.695] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
 [14Jan2025 01:40:26.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -1.965780042936558,-1.0013359791121417,-9.857488039802675
+[14Jan2025 01:40:31.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 1392.500000, 64.000000, -138.500000]
+[14Jan2025 01:41:11.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Acquire Hardware]
+[14Jan2025 01:41:33.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Yuki-Onna
+[14Jan2025 01:41:33.741] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:1173, y:72, z:32, dim:minecraft:overworld]
+[14Jan2025 01:41:33.761] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 01:42:03.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/32548, l='ServerLevel[world]', x=1125.03, y=64.23, z=19.86] died, message: 'Nitwit was slain by Wendigo'
+[14Jan2025 01:42:13.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Sea? Not a Problem]
+[14Jan2025 01:42:42.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:42:42.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 01:42:54.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Isn't It Iron Pick]
+[14Jan2025 01:43:08.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Suit Up]
+[14Jan2025 01:43:20.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Magic Writing]
+[14Jan2025 01:43:44.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has reached the goal [Totally not arbitrary rarity]
+[14Jan2025 01:43:48.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [A little bit of luck...]
+[14Jan2025 01:45:13.055] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1307, y=-58, z=78}
+[14Jan2025 01:45:13.854] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1307, y=-58, z=78}
+[14Jan2025 01:45:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was shot by Skeleton
+[14Jan2025 01:45:28.501] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:872, y:-12, z:236, dim:minecraft:overworld]
+[14Jan2025 01:45:28.517] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:45:41.678] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[14Jan2025 01:45:41.679] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1302, y=-58, z=197}
+[14Jan2025 01:46:31.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Hog Wild!]
+[14Jan2025 01:46:31.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> zzzz
+[14Jan2025 01:46:54.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/32531, l='ServerLevel[world]', x=1102.40, y=64.17, z=-34.33] died, message: 'Shepherd was shot by Skeleton'
+[14Jan2025 01:47:10.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Ozark Apparition]
+[14Jan2025 01:47:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:47:11.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Ozark Apparition]
+[14Jan2025 01:47:16.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Hog Wild!]
+[14Jan2025 01:47:16.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/32523, l='ServerLevel[world]', x=1075.43, y=63.00, z=-14.51] died, message: 'Villager died'
+[14Jan2025 01:47:42.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:47:42.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 01:47:48.512] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/37169, l='ServerLevel[world]', x=1836.23, y=64.75, z=150.63] died, message: 'Villager was slain by Equestrian'
+[14Jan2025 01:47:52.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Hunt of a Lifetime!]
+[14Jan2025 01:48:10.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Ozark Apparition]
+[14Jan2025 01:48:35.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Monster Hunter]
+[14Jan2025 01:48:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [A Strange Grave Dust]
+[14Jan2025 01:49:53.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Yuki-Onna
+[14Jan2025 01:49:53.407] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:1842, y:64, z:98, dim:minecraft:overworld]
+[14Jan2025 01:49:53.418] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:50:29.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by KilFail
+[14Jan2025 01:50:29.959] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:1854, y:63, z:135, dim:minecraft:overworld]
+[14Jan2025 01:50:30.021] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:50:33.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:50:36.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Book of Monsters]
+[14Jan2025 01:51:40.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41125, l='ServerLevel[world]', x=1280.18, y=66.90, z=398.21]
+[14Jan2025 01:51:40.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/41129, l='ServerLevel[world]', x=1280.35, y=66.75, z=395.98]
+[14Jan2025 01:51:48.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Yuki-Onna
+[14Jan2025 01:51:49.256] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:1923, y:65, z:253, dim:minecraft:overworld]
+[14Jan2025 01:51:49.269] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:51:52.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:52:00.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Iron Golem
+[14Jan2025 01:52:00.196] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:1080, y:66, z:374, dim:minecraft:overworld]
+[14Jan2025 01:52:00.226] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 01:52:07.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Yuki-Onna
+[14Jan2025 01:52:07.618] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:1927, y:65, z:256, dim:minecraft:overworld]
+[14Jan2025 01:52:07.643] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 01:52:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:52:24.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 1080.500000, 66.000000, 374.500000]
+[14Jan2025 01:52:24.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 1080.500000, 66.000000, 374.500000]
+[14Jan2025 01:52:42.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:52:42.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 01:53:01.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44026, l='ServerLevel[world]', x=1129.49, y=71.50, z=366.22] died, message: 'Villager walked into a cactus whilst trying to escape Ice Dragon'
+[14Jan2025 01:53:22.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Who You Gonna Call?]
+[14Jan2025 01:53:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Who You Gonna Call?]
+[14Jan2025 01:54:03.823] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	Index: 4
+	Listeners:
+		0: HIGHEST
+		1: ASM: class ovh.corail.tombstone.event.EventHandler onPlayerInteractEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon eventPlayerInteractEvent(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		4: ASM: class tschipp.carryon.events.CommonEvents onEntityRightClick(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		5: NORMAL
+		6: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@56fcb2b6 onPlayerInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		7: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@46b7eb99 onInteractWithEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		8: ASM: class net.mcreator.spelunkerscharm.procedures.PlaceBlocksInMinecartsProcedure onRightClickEntity(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+		9: net.minecraftforge.eventbus.EventBus$$Lambda$4279/0x000070416caae250@5f11e7b4
+		10: net.minecraftforge.eventbus.EventBus$$Lambda$4279/0x000070416caae250@60dec0a0
+		11: net.minecraftforge.eventbus.EventBus$$Lambda$4279/0x000070416caae250@548830d0
+		12: net.minecraftforge.eventbus.EventBus$$Lambda$4279/0x000070416caae250@1ce3f95a
+		13: net.minecraftforge.eventbus.EventBus$$Lambda$4279/0x000070416caae250@4c1f8135
+		14: net.minecraftforge.eventbus.EventBus$$Lambda$4279/0x000070416caae250@5a5293d6
+		15: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@3777f61b onEntityInteract(Lnet/minecraftforge/event/entity/player/PlayerInteractEvent$EntityInteract;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124)
+	at TRANSFORMER/carryon@2.1.2.7/tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_36157_(Player.java:975)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[14Jan2025 01:54:03.825] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@32c7e99b, suppressing error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity.m_20206_()" because "entityHeld" is null
+	at tschipp.carryon.common.carry.PlacementHandler.tryStackEntity(PlacementHandler.java:199) ~[carryon-forge-1.20.1-2.1.2.7.jar%23139!/:2.1.2.7]
+	at tschipp.carryon.events.CommonEvents.onEntityRightClick(CommonEvents.java:124) ~[carryon-forge-1.20.1-2.1.2.7.jar%23139!/:2.1.2.7]
+	at tschipp.carryon.events.__CommonEvents_onEntityRightClick_EntityInteract.invoke(.dynamic) ~[carryon-forge-1.20.1-2.1.2.7.jar%23139!/:2.1.2.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onInteractEntity(ForgeHooks.java:764) ~[forge-1.20.1-47.3.7-universal.jar%23174!/:?]
+	at net.minecraft.world.entity.player.Player.m_36157_(Player.java:975) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_143678_(ServerGamePacketListenerImpl.java:1460) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_142299_(ServerGamePacketListenerImpl.java:1472) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$InteractionAction.m_142457_(ServerboundInteractPacket.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[14Jan2025 01:54:19.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire suffocated in a wall whilst fighting Ice Dragon
+[14Jan2025 01:54:19.154] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:1130, y:80, z:601, dim:minecraft:overworld]
+[14Jan2025 01:54:19.157] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 01:54:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 1131.500000, 80.000000, 603.500000]
+[14Jan2025 01:54:38.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Siren
+[14Jan2025 01:54:39.007] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2155, y:49, z:178, dim:minecraft:overworld]
+[14Jan2025 01:54:39.031] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:54:41.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:54:50.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Diamonds!]
+[14Jan2025 01:54:53.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Ice Bucket Challenge]
+[14Jan2025 01:54:55.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [A True Source of Evil]
+[14Jan2025 01:56:03.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:56:06.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was frozen by Ice Dragon
+[14Jan2025 01:56:06.277] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:1288, y:65, z:607, dim:minecraft:overworld]
+[14Jan2025 01:56:06.302] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 01:56:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 1289.500000, 65.000000, 606.500000]
+[14Jan2025 01:56:47.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Harrowing Hunger]
+[14Jan2025 01:56:51.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Wendigo
+[14Jan2025 01:56:51.102] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2265, y:75, z:-210, dim:minecraft:overworld]
+[14Jan2025 01:56:51.115] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 01:56:56.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:57:01.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has completed the challenge [Cannibal]
+[14Jan2025 01:57:03.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has completed the challenge [Harrowing Hunger]
+[14Jan2025 01:57:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wendigo
+[14Jan2025 01:57:04.549] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2262, y:75, z:-211, dim:minecraft:overworld]
+[14Jan2025 01:57:04.563] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:57:09.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:57:12.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Wendigo
+[14Jan2025 01:57:12.649] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2269, y:75, z:-227, dim:minecraft:overworld]
+[14Jan2025 01:57:12.680] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 01:57:16.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:57:26.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wendigo
+[14Jan2025 01:57:26.349] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2268, y:75, z:-218, dim:minecraft:overworld]
+[14Jan2025 01:57:26.369] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:57:28.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:57:42.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 01:57:42.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 01:57:44.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Wendigo
+[14Jan2025 01:57:44.146] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2261, y:74, z:-220, dim:minecraft:overworld]
+[14Jan2025 01:57:44.165] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 01:57:46.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:58:04.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Wendigo
+[14Jan2025 01:58:04.515] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2257, y:75, z:-222, dim:minecraft:overworld]
+[14Jan2025 01:58:04.531] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 01:58:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 01:58:09.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Wendigo
+[14Jan2025 01:58:09.144] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2261, y:72, z:-221, dim:minecraft:overworld]
+[14Jan2025 01:58:09.161] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 01:58:11.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:58:15.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Who You Gonna Call?]
+[14Jan2025 01:58:21.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Wendigo
+[14Jan2025 01:58:21.249] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2260, y:71, z:-221, dim:minecraft:overworld]
+[14Jan2025 01:58:21.269] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 01:58:27.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 01:58:38.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Fatal Fast]
+[14Jan2025 01:59:25.961] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
+[14Jan2025 01:59:25.961] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md05ab6b$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
+[14Jan2025 01:59:47.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Cover Me with Diamonds]
+[14Jan2025 02:01:07.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported ChebyMCfire to KilFail]
+[14Jan2025 02:01:42.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was frozen by Ice Dragon
+[14Jan2025 02:01:42.636] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2435, y:106, z:-439, dim:minecraft:overworld]
+[14Jan2025 02:01:42.645] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:01:45.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:02:15.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Furry Feind]
+[14Jan2025 02:02:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Ice Dragon
+[14Jan2025 02:02:16.154] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2451, y:112, z:-439, dim:minecraft:overworld]
+[14Jan2025 02:02:16.170] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:02:25.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Ice Dragon
+[14Jan2025 02:02:25.639] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:2452, y:114, z:-441, dim:minecraft:overworld]
+[14Jan2025 02:02:25.650] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:02:26.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [The Most Useful Key]
+[14Jan2025 02:02:30.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was frozen by Ice Dragon
+[14Jan2025 02:02:30.238] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2446, y:110, z:-437, dim:minecraft:overworld]
+[14Jan2025 02:02:30.249] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 02:02:30.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was frozen by Ice Dragon
+[14Jan2025 02:02:31.038] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2449, y:112, z:-439, dim:minecraft:overworld]
+[14Jan2025 02:02:31.049] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[14Jan2025 02:02:34.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 02:02:37.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has reached the goal [A Fast Comeback]
+[14Jan2025 02:02:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2446.500000, 110.000000, -436.500000]
+[14Jan2025 02:02:40.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to ChebyMCfire]
+[14Jan2025 02:02:42.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:02:42.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:02:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was turned to ice by Ice Dragon
+[14Jan2025 02:02:50.986] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:2448, y:111, z:-436, dim:minecraft:overworld]
+[14Jan2025 02:02:50.998] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:02:56.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Dragonslayer]
+[14Jan2025 02:04:56.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Dragon Commander]
+[14Jan2025 02:06:04.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to KilFail]
+[14Jan2025 02:06:04.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Truth in Legend]
+[14Jan2025 02:07:12.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Minotaurus
+[14Jan2025 02:07:12.993] [Server thread/DEBUG] [tombstone/]: A new grave of the player KilFail was created at position [x:2450, y:146, z:-759, dim:minecraft:overworld]
+[14Jan2025 02:07:13.006] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[14Jan2025 02:07:15.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Minotaurus
+[14Jan2025 02:07:15.807] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:2447, y:147, z:-756, dim:minecraft:overworld]
+[14Jan2025 02:07:15.824] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:07:17.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to Luck_Volt]
+[14Jan2025 02:07:20.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to ChebyMCfire]
+[14Jan2025 02:07:23.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2448.500000, 147.000000, -755.500000]
+[14Jan2025 02:07:25.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2446.500000, 110.000000, -436.500000]
+[14Jan2025 02:07:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2450.500000, 146.000000, -758.500000]
+[14Jan2025 02:07:34.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Minotaurus
+[14Jan2025 02:07:34.303] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:07:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2448.500000, 147.000000, -755.500000]
+[14Jan2025 02:07:42.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Jan2025 02:07:42.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Jan2025 02:07:45.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[14Jan2025 02:07:52.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Best Friends Forever]
+[14Jan2025 02:07:56.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Roadrunners Beware!]
+[14Jan2025 02:08:51.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to ChebyMCfire]
+[14Jan2025 02:09:25.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to ChebyMCfire]
+[14Jan2025 02:10:04.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was frozen by Ice Dragon
+[14Jan2025 02:10:04.789] [Server thread/DEBUG] [tombstone/]: A new grave of the player ChebyMCfire was created at position [x:2384, y:174, z:-737, dim:minecraft:overworld]
+[14Jan2025 02:10:04.797] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[14Jan2025 02:10:15.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2385.500000, 174.000000, -736.500000]
+[14Jan2025 02:10:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 2385.500000, 174.000000, -736.500000]
+[14Jan2025 02:10:35.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt walked into a cactus whilst trying to escape KilFail
+[14Jan2025 02:10:35.603] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luck_Volt was created at position [x:2387, y:171, z:-738, dim:minecraft:overworld]
+[14Jan2025 02:10:35.604] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved

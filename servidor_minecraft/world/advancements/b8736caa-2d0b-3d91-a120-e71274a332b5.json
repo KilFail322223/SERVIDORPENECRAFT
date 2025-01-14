@@ -61,6 +61,7 @@
       "minecraft:beach": "2025-01-14 01:06:25 +0000",
       "minecraft:river": "2025-01-14 01:07:59 +0000",
       "minecraft:swamp": "2025-01-14 01:09:24 +0000",
+      "minecraft:forest": "2025-01-14 01:57:04 +0000",
       "minecraft:windswept_forest": "2025-01-14 01:10:50 +0000"
     },
     "done": false
@@ -83,6 +84,18 @@
     },
     "done": true
   },
+  "cnc:chupacabraadvancement": {
+    "criteria": {
+      "chupacabraadvancement_0": "2025-01-14 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-14 01:37:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-14 01:15:32 +0000"
@@ -95,9 +108,34 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-01-14 02:06:22 +0000",
+      "minecraft:zombie": "2025-01-14 01:48:35 +0000"
+    },
+    "done": false
+  },
   "a_man_with_plushies:first_common_plushie": {
     "criteria": {
       "first_common_plushie_0": "2025-01-14 01:30:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-14 02:02:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-14 01:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-14 01:48:35 +0000"
     },
     "done": true
   },
@@ -107,9 +145,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-14 01:58:15 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-01-14 02:03:08 +0000"
+    },
+    "done": true
+  },
   "evilcraft:evil_source": {
     "criteria": {
       "criteria_0": "2025-01-14 01:20:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-01-14 01:50:36 +0000"
     },
     "done": true
   },
@@ -125,10 +181,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-14 01:48:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-14 01:58:36 +0000",
       "cooked_beef": "2025-01-14 01:28:57 +0000",
-      "bread": "2025-01-14 01:18:14 +0000"
+      "bread": "2025-01-14 01:18:14 +0000",
+      "cookie": "2025-01-14 01:38:57 +0000"
     },
     "done": false
   },
@@ -150,9 +214,27 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/oni": {
+    "criteria": {
+      "kill": "2025-01-14 01:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-14 01:18:14 +0000"
+    },
+    "done": true
+  },
+  "cnc:howleradvancement": {
+    "criteria": {
+      "howleradvancement_0": "2025-01-14 01:48:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-01-14 02:02:26 +0000"
     },
     "done": true
   },
@@ -165,6 +247,12 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-14 01:19:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-14 01:39:46 +0000"
     },
     "done": true
   },
@@ -189,6 +277,18 @@
   "cnc:coyoteadvancement": {
     "criteria": {
       "coyoteadvancement_0": "2025-01-14 01:24:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/painting": {
+    "criteria": {
+      "has_item": "2025-01-14 01:51:17 +0000"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2025-01-14 01:54:05 +0000"
     },
     "done": true
   },
