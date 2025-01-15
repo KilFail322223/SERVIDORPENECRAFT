@@ -122,6 +122,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-15 00:57:56 +0000",
       "cooked_mutton": "2025-01-14 01:58:36 +0000",
       "cooked_beef": "2025-01-14 01:28:57 +0000",
       "pumpkin_pie": "2025-01-14 02:09:36 +0000",
@@ -246,7 +247,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-15 00:51:13 +0000",
       "minecraft:creeper": "2025-01-14 02:06:22 +0000",
+      "minecraft:stray": "2025-01-15 00:39:18 +0000",
       "minecraft:zombie": "2025-01-14 01:48:35 +0000"
     },
     "done": false
@@ -326,6 +329,54 @@
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-01-14 02:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-15 00:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-15 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-15 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-01-15 00:47:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-01-15 00:56:40 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2025-01-15 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-15 00:39:20 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-01-15 00:41:46 +0000"
     },
     "done": true
   },
