@@ -738,3 +738,130 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jan2025 01:12:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2928.500000, 9.000000, 349.500000]
 [15Jan2025 01:12:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> c murio
 [15Jan2025 01:12:42.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15Jan2025 01:13:04.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7591ms or 151 ticks behind
+[15Jan2025 01:13:19.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:13:32.477] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:13:43.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[15Jan2025 01:13:50.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:13:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> bro he visto mas oceano
+[15Jan2025 01:13:58.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:13:58.770] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:14:00.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to KilFail]
+[15Jan2025 01:14:05.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was blown up by KilFail using [Bailey's Bovine Rocket]
+[15Jan2025 01:14:06.290] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:14:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Sea Serpent
+[15Jan2025 01:14:10.638] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 01:14:14.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> xd
+[15Jan2025 01:14:17.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 1231.500000, 63.000000, -1213.500000]
+[15Jan2025 01:14:18.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 1790.500000, 62.000000, -863.500000]
+[15Jan2025 01:14:22.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2446.500000, 110.000000, -436.500000]
+[15Jan2025 01:14:29.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 1216.500000, 62.000000, -1219.500000]
+[15Jan2025 01:14:40.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Sea Serpent
+[15Jan2025 01:14:40.562] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:15:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> blo
+[15Jan2025 01:15:05.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Sea Serpent
+[15Jan2025 01:15:05.399] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:15:42.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> blo
+[15Jan2025 01:16:07.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Jan2025 01:16:11.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> cheby
+[15Jan2025 01:16:14.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> ahora si te va bien?
+[15Jan2025 01:16:21.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> chi
+[15Jan2025 01:16:26.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[15Jan2025 01:16:28.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> no estoy en vc
+[15Jan2025 01:16:30.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> es por eso
+[15Jan2025 01:16:30.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> xd
+[15Jan2025 01:16:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> reduro
+[15Jan2025 01:16:40.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:16:49.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7676ms or 153 ticks behind
+[15Jan2025 01:17:11.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7177ms or 143 ticks behind
+[15Jan2025 01:17:12.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> kil
+[15Jan2025 01:17:15.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> a
+[15Jan2025 01:17:19.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> tas en superficie?
+[15Jan2025 01:17:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Sea Serpent
+[15Jan2025 01:17:21.198] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:17:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 1117.500000, 55.000000, -1468.500000]
+[15Jan2025 01:17:29.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> si
+[15Jan2025 01:17:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> me tpeo
+[15Jan2025 01:17:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to KilFail]
+[15Jan2025 01:17:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> blo
+[15Jan2025 01:17:49.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> esas cecilias te balean bien feo
+[15Jan2025 01:18:00.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Sea Serpent
+[15Jan2025 01:18:00.803] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 01:18:03.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> aa
+[15Jan2025 01:18:07.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 746.500000, 63.000000, -1610.500000]
+[15Jan2025 01:18:07.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was killed by Cecaelia using magic
+[15Jan2025 01:18:07.733] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:18:16.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> CUANTAS HAY
+[15Jan2025 01:18:33.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was killed by Cecaelia using magic
+[15Jan2025 01:18:33.698] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:18:44.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has reached the goal [The long arm of the law]
+[15Jan2025 01:18:52.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Local Brewery]
+[15Jan2025 01:18:57.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was slain by Sea Serpent
+[15Jan2025 01:18:57.953] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:19:11.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:19:11.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[15Jan2025 01:19:11.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[15Jan2025 01:19:23.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> ya no le va bien
+[15Jan2025 01:19:49.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:57221] logged in with entity id 37044 at (721.209548390176, 65.07012464426886, -1600.4383941827266)
+[15Jan2025 01:19:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[15Jan2025 01:20:52.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> kil
+[15Jan2025 01:20:55.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> tienes hilo?
+[15Jan2025 01:20:58.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> ocupo 2
+[15Jan2025 01:20:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> no
+[15Jan2025 01:21:58.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> wtf
+[15Jan2025 01:22:40.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Tie me to the Mast]
+[15Jan2025 01:22:53.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> estoy peleando contra luck
+[15Jan2025 01:23:00.297] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 01:23:00.298] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 01:23:00.299] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
