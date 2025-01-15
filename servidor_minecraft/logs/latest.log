@@ -865,3 +865,256 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 01:23:16.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was squashed by a falling anvil
+[15Jan2025 01:23:16.782] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 01:23:19.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> XD
+[15Jan2025 01:23:20.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> xd?
+[15Jan2025 01:23:24.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2450.500000, 146.000000, -758.500000]
+[15Jan2025 01:23:26.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> PIGGA
+[15Jan2025 01:23:30.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 2397.500000, 194.000000, -729.500000]
+[15Jan2025 01:23:34.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 469.500000, 77.000000, -1701.500000]
+[15Jan2025 01:24:20.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> CHIGGA
+[15Jan2025 01:24:31.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> LUCK
+[15Jan2025 01:24:35.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> ESTOY CON PIGGA Y CHIGGA
+[15Jan2025 01:24:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> QEEEEE
+[15Jan2025 01:25:12.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> tp blo
+[15Jan2025 01:25:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Gross]
+[15Jan2025 01:25:40.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [First big catch of the month!]
+[15Jan2025 01:27:16.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 8.971237006801516,0.16779664663324922,4.7396023823221185
+[15Jan2025 01:27:23.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> ostia
+[15Jan2025 01:27:29.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> encontré la casa de medusa
+[15Jan2025 01:27:37.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 8.843568655289346,-0.023088109101550458,-5.300185843961799
+[15Jan2025 01:27:39.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> q rika esta medusa
+[15Jan2025 01:27:48.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> un dragón veneco
+[15Jan2025 01:27:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [+PARRY]
+[15Jan2025 01:29:41.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -9.30124132214894,-0.5852905272338518,3.809390341940798
+[15Jan2025 01:29:55.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was turned into gorgonzola by Gorgon
+[15Jan2025 01:29:55.266] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:30:04.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Night Night]
+[15Jan2025 01:30:08.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> me papeó
+[15Jan2025 01:30:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> aaa
+[15Jan2025 01:30:11.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> me durmieron
+[15Jan2025 01:30:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by The Skeeper
+[15Jan2025 01:30:14.484] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 01:30:19.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> wtf
+[15Jan2025 01:30:25.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 1790.500000, 62.000000, -863.500000]
+[15Jan2025 01:30:31.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 469.500000, 77.000000, -1701.500000]
+[15Jan2025 01:30:32.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was turned into gorgonzola by Gorgon
+[15Jan2025 01:30:32.681] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:30:34.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 746.500000, 63.000000, -1610.500000]
+[15Jan2025 01:30:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 378.500000, 90.000000, -1768.500000]
+[15Jan2025 01:30:41.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 643.500000, 70.000000, -1334.500000]
+[15Jan2025 01:30:47.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was turned into gorgonzola by Gorgon
+[15Jan2025 01:30:47.866] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:30:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> a ustedes tbm les aparecieron unas moscas ?
+[15Jan2025 01:31:01.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 645.500000, 70.000000, -1331.500000]
+[15Jan2025 01:31:10.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -9.616041866640899,0.5,-2.8588478173367093
+[15Jan2025 01:31:35.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was turned to stone by Gorgon
+[15Jan2025 01:31:35.478] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:31:43.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> perra de mierda
+[15Jan2025 01:31:47.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 643.500000, 70.000000, -1334.500000]
+[15Jan2025 01:31:55.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=71, z=-2596} BlockPos{x=-63, y=69, z=-2595}
+[15Jan2025 01:31:55.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=71, z=-2596} BlockPos{x=-63, y=69, z=-2595}
+[15Jan2025 01:31:55.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-63, y=71, z=-2596} BlockPos{x=-63, y=69, z=-2595}
+[15Jan2025 01:32:22.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> a ustedes tbm les aparecieron unas moscas ?
+[15Jan2025 01:32:29.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was turned to stone by Gorgon
+[15Jan2025 01:32:29.037] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:32:38.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> dios
+[15Jan2025 01:33:06.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 2.318611315781027,2.0,9.595764297213918
+[15Jan2025 01:33:20.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> luck
+[15Jan2025 01:33:23.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has reached the goal [Bone Crusher]
+[15Jan2025 01:33:46.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was struck with lightning by Lightning Dragon
+[15Jan2025 01:33:46.428] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:33:58.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> boe
+[15Jan2025 01:33:58.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> :V
+[15Jan2025 01:34:05.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Set the weather to clear]
+[15Jan2025 01:34:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 630.500000, 70.000000, -1335.500000]
+[15Jan2025 01:34:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 630.500000, 70.000000, -1335.500000]
+[15Jan2025 01:34:35.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> que robo
+[15Jan2025 01:34:41.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to KilFail]
+[15Jan2025 01:34:45.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> reduro
+[15Jan2025 01:34:53.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire was killed by Cecaelia using magic
+[15Jan2025 01:34:53.744] [Server thread/INFO] [tombstone/]: The player ChebyMCfire has successfully been saved
+[15Jan2025 01:34:59.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by The Moonflower
+[15Jan2025 01:34:59.574] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:35:04.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> :v
+[15Jan2025 01:35:30.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 630.500000, 70.000000, -1335.500000]
+[15Jan2025 01:35:33.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Cyclops
+[15Jan2025 01:35:33.409] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:35:43.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to -199.500000, 69.000000, -3107.500000]
+[15Jan2025 01:35:54.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 643.500000, 70.000000, -1334.500000]
+[15Jan2025 01:35:57.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 645.500000, 70.000000, -1331.500000]
+[15Jan2025 01:36:01.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 645.500000, 70.000000, -1331.500000]
+[15Jan2025 01:36:02.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Not Today, Thank You]
+[15Jan2025 01:36:04.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to -263.500000, 63.000000, -2202.500000]
+[15Jan2025 01:37:10.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:37:22.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by The Moonflower
+[15Jan2025 01:37:22.909] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:37:30.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to -230.500000, 91.000000, -3479.500000]
+[15Jan2025 01:37:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by The Moonflower
+[15Jan2025 01:37:35.163] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:37:38.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to -230.500000, 91.000000, -3479.500000]
+[15Jan2025 01:37:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Big Bad]
+[15Jan2025 01:38:12.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[15Jan2025 01:38:31.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was killed by Cecaelia using magic
+[15Jan2025 01:38:31.485] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:38:31.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
+[15Jan2025 01:38:33.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -9.265349158273068,0.38051234043228277,4.478226674529651
+[15Jan2025 01:38:59.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[15Jan2025 01:39:17.418] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3064ms or 61 ticks behind
+[15Jan2025 01:39:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Cecaelia
+[15Jan2025 01:39:26.365] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:39:48.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:39:48.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[15Jan2025 01:39:48.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[15Jan2025 01:40:34.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was killed by Cecaelia using magic
+[15Jan2025 01:40:34.191] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 01:40:38.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:57460] logged in with entity id 77968 at (-537.5387986337897, 64.49154391595874, -2567.571531380319)
+[15Jan2025 01:40:38.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[15Jan2025 01:40:39.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to -670.500000, 65.000000, -3180.500000]
+[15Jan2025 01:41:04.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:41:04.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[15Jan2025 01:41:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[15Jan2025 01:41:46.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:57507] logged in with entity id 79343 at (-539.4665125065465, 63.99658160454864, -2565.6438175075623)
+[15Jan2025 01:41:46.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[15Jan2025 01:42:57.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Tie me to the Mast]
+[15Jan2025 01:43:23.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7589ms or 151 ticks behind
+[15Jan2025 01:43:23.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luck_Volt moved too quickly! -6.282451607196265,2.5813359922251635,7.81831105380752
+[15Jan2025 01:43:31.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [A Face Only a Mother Could Love]
+[15Jan2025 01:43:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [Big Bad]
+[15Jan2025 01:43:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to 484.500000, 88.000000, -1452.500000]
+[15Jan2025 01:46:38.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has made the advancement [Ambush]
+[15Jan2025 01:46:39.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -4.660260584509956,-1.2491870787446828,9.033787472320228
+[15Jan2025 01:46:44.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> :V
+[15Jan2025 01:46:50.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 2.5420332186637324,-2.121296840539202,9.527176617701798
+[15Jan2025 01:46:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Set the weather to clear]
+[15Jan2025 01:47:03.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:47:03.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[15Jan2025 01:47:03.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[15Jan2025 01:47:53.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:57560] logged in with entity id 85913 at (270.4649613690692, 68.16610926093821, -1166.7744356621586)
+[15Jan2025 01:47:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[15Jan2025 01:48:02.085] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/86134, l='ServerLevel[world]', x=4110.92, y=72.20, z=1110.26] died, message: 'Nitwit was slain by Cyclops'
+[15Jan2025 01:48:34.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86145, l='ServerLevel[world]', x=4099.00, y=73.20, z=1112.13] died, message: 'Villager was slain by Cyclops'
+[15Jan2025 01:48:34.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! -0.6419764059559725,-2.024424088213692,9.886828485231717
+[15Jan2025 01:49:15.762] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86175, l='ServerLevel[world]', x=4100.96, y=74.20, z=1115.20] died, message: 'Villager was slain by Cyclops'
+[15Jan2025 01:49:46.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86157, l='ServerLevel[world]', x=4105.42, y=73.20, z=1122.39] died, message: 'Villager was slain by Cyclops'
+[15Jan2025 01:50:04.621] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/86160, l='ServerLevel[world]', x=4113.45, y=70.20, z=1119.16] died, message: 'Toolsmith was slain by Cyclops'
+[15Jan2025 01:50:11.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to -691.000000, 82.000000, -3539.000000]
+[15Jan2025 01:50:22.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:50:22.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[15Jan2025 01:50:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[15Jan2025 01:51:08.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChebyMCfire[/100.99.217.102:57614] logged in with entity id 89810 at (280.1717617478483, 65.02442408821369, -1055.519187844069)
+[15Jan2025 01:51:08.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire joined the game
+[15Jan2025 01:51:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Well, that was disgusting]
+[15Jan2025 01:51:41.095] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 01:51:41.095] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 01:51:41.096] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23169!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[15Jan2025 01:51:52.022] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=496, y=-65, z=-934} but found not block entity block Block{minecraft:air} at location
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=496, y=-65, z=-934}
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=497, y=-65, z=-935} but found not block entity block Block{minecraft:air} at location
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=497, y=-65, z=-935}
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=499, y=-65, z=-934} but found not block entity block Block{minecraft:air} at location
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=499, y=-65, z=-934}
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=500, y=-65, z=-934} but found not block entity block Block{minecraft:air} at location
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=500, y=-65, z=-934}
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=497, y=-65, z=-934} but found not block entity block Block{minecraft:air} at location
+[15Jan2025 01:51:52.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=497, y=-65, z=-934}
+[15Jan2025 01:52:14.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire moved too quickly! 9.192626850496822,3.249187078744683,-2.648955338757105
+[15Jan2025 01:53:46.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt has reached the goal [Fortuitous Militia]
+[15Jan2025 01:54:11.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to Luck_Volt]
+[15Jan2025 01:54:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> que fue
+[15Jan2025 01:54:34.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> una mansionblo
+[15Jan2025 01:54:42.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> se está quemando
+[15Jan2025 01:55:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> oña
+[15Jan2025 01:57:11.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ChebyMCfire: Teleported ChebyMCfire to Luck_Volt]
+[15Jan2025 01:57:25.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> loco me dan unos bajones de fps asquerosos
+[15Jan2025 01:57:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> de 12 a 0
+[15Jan2025 01:57:33.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> :,v
+[15Jan2025 01:57:50.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> todo por culpa de luck
+[15Jan2025 01:58:03.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire was kicked for floating too long!
+[15Jan2025 01:58:03.481] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChebyMCfire lost connection: Flying is not enabled on this server
+[15Jan2025 01:58:03.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire left the game
+[15Jan2025 01:58:23.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was doomed to fall by The Bomber
+[15Jan2025 01:58:24.165] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:58:34.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to -772.500000, 66.000000, -3592.500000]
+[15Jan2025 01:58:56.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved wrongly! 0.34437317805452494
+[15Jan2025 01:58:56.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved wrongly! 0.7407956531180844
+[15Jan2025 01:58:56.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved wrongly! 0.866274275414753
+[15Jan2025 01:59:12.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Minotaurus
+[15Jan2025 01:59:12.829] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:59:30.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> bro las cecilias no me dejan
+[15Jan2025 02:00:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Ice Dragon
+[15Jan2025 02:00:21.043] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 02:00:25.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to -670.500000, 65.000000, -3180.500000]
+[15Jan2025 02:00:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to -994.500000, 65.000000, -3834.500000]
+[15Jan2025 02:00:57.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Ice Dragon
+[15Jan2025 02:00:57.603] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 02:01:09.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to -670.500000, 65.000000, -3180.500000]
+[15Jan2025 02:01:13.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to -980.500000, 64.000000, -3851.500000]
+[15Jan2025 02:01:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has made the advancement [A Face Only a Mother Could Love]
+[15Jan2025 02:01:59.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> bro..
+[15Jan2025 02:02:03.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> bro ven
+[15Jan2025 02:02:18.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> el hermano de pigga
+[15Jan2025 02:02:40.803] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luck_Volt lost connection: Disconnected
+[15Jan2025 02:02:40.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt left the game

@@ -60,7 +60,9 @@
       "minecraft:deep_ocean": "2025-01-14 02:17:27 +0000",
       "minecraft:windswept_hills": "2025-01-14 01:15:50 +0000",
       "minecraft:beach": "2025-01-14 01:03:13 +0000",
+      "minecraft:dark_forest": "2025-01-15 01:39:03 +0000",
       "minecraft:river": "2025-01-14 01:05:01 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-15 01:32:23 +0000",
       "minecraft:swamp": "2025-01-14 01:07:42 +0000",
       "minecraft:cold_ocean": "2025-01-14 01:09:20 +0000",
       "minecraft:forest": "2025-01-14 01:51:52 +0000",
@@ -387,6 +389,48 @@
     },
     "done": true
   },
+  "undead_revamp2:cloggeradvance": {
+    "criteria": {
+      "cloggeradvance_0": "2025-01-15 01:25:40 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-01-15 01:51:24 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-15 01:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-15 01:36:02 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2025-01-15 01:30:04 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-01-15 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "cnc:greywolfadvancement": {
+    "criteria": {
+      "greywolfadvancement_0": "2025-01-15 01:43:37 +0000"
+    },
+    "done": true
+  },
   "evilcraft:cannibal": {
     "criteria": {
       "criteria_0": "2025-01-15 01:10:36 +0000"
@@ -396,6 +440,12 @@
   "grimoireofgaia:main/cecaelia": {
     "criteria": {
       "kill": "2025-01-15 01:18:32 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-15 01:27:55 +0000"
     },
     "done": true
   },

@@ -59,7 +59,9 @@
       "minecraft:taiga": "2025-01-14 01:34:43 +0000",
       "minecraft:windswept_hills": "2025-01-14 01:10:25 +0000",
       "minecraft:beach": "2025-01-14 01:06:25 +0000",
+      "minecraft:dark_forest": "2025-01-15 01:54:51 +0000",
       "minecraft:river": "2025-01-14 01:07:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-15 01:34:41 +0000",
       "minecraft:dripstone_caves": "2025-01-15 00:25:15 +0000",
       "minecraft:swamp": "2025-01-14 01:09:24 +0000",
       "minecraft:cold_ocean": "2025-01-14 02:16:43 +0000",
@@ -68,6 +70,7 @@
       "minecraft:deep_cold_ocean": "2025-01-14 02:17:12 +0000",
       "minecraft:frozen_ocean": "2025-01-14 02:25:13 +0000",
       "minecraft:windswept_forest": "2025-01-14 01:10:50 +0000",
+      "minecraft:ocean": "2025-01-15 01:21:50 +0000",
       "minecraft:windswept_savanna": "2025-01-15 01:17:52 +0000",
       "minecraft:plains": "2025-01-14 02:24:42 +0000"
     },
@@ -334,87 +337,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "quark:get_all_corundum": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
+      "blue": "2025-01-15 00:22:40 +0000"
     },
     "done": false
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-15 01:19:02 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-01-15 00:42:11 +0000"
+      "coded_trigger": "2025-01-15 00:39:20 +0000"
     },
     "done": true
   },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-01-15 00:41:06 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2025-01-15 00:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-01-15 00:42:11 +0000"
     },
     "done": true
   },
@@ -430,9 +379,9 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/mimic": {
+  "grimoireofgaia:main/deathword": {
     "criteria": {
-      "kill": "2025-01-15 01:05:37 +0000"
+      "kill": "2025-01-15 00:51:14 +0000"
     },
     "done": true
   },
@@ -442,29 +391,96 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/deathword": {
+  "grimoireofgaia:main/mimic": {
     "criteria": {
-      "kill": "2025-01-15 00:51:14 +0000"
+      "kill": "2025-01-15 01:05:37 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "coded_trigger": "2025-01-15 00:39:20 +0000"
+      "killed_fire_dragon": "2025-01-15 01:42:57 +0000"
     },
     "done": true
   },
-  "evilcraft:first_age": {
+  "grimoireofgaia:main/valkyrie": {
     "criteria": {
-      "criteria_0": "2025-01-15 00:41:46 +0000"
+      "kill": "2025-01-15 01:44:57 +0000"
     },
     "done": true
   },
-  "quark:get_all_corundum": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "blue": "2025-01-15 00:22:40 +0000"
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
     },
     "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-01-15 01:58:03 +0000",
+      "log_spam_fixer": "2025-01-15 01:57:20 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
