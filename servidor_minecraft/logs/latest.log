@@ -703,3 +703,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [15Jan2025 00:55:31.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChebyMCfire> mira
 [15Jan2025 00:56:27.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> afk
 [15Jan2025 00:56:40.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChebyMCfire has made the advancement [Magic Writing]
+[15Jan2025 01:07:13.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> holatilin
+[15Jan2025 01:09:26.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Mimic
+[15Jan2025 01:09:26.649] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:09:33.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2989.500000, 22.000000, 353.500000]
+[15Jan2025 01:09:41.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KilFail[/100.90.85.50:49834] logged in with entity id 22453 at (2095.5199649890105, 67.0, -777.6999999880791)
+[15Jan2025 01:09:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail joined the game
+[15Jan2025 01:09:56.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> :V
+[15Jan2025 01:10:00.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> :v
+[15Jan2025 01:10:01.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> llego el mas pro
+[15Jan2025 01:10:05.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Set the weather to clear]
+[15Jan2025 01:10:07.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3020, y=12, z=309} BlockPos{x=3021, y=13, z=309}
+[15Jan2025 01:10:07.248] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3020, y=12, z=309} BlockPos{x=3021, y=13, z=309}
+[15Jan2025 01:10:20.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> bro, me conecto y tengo una carne de cheby
+[15Jan2025 01:10:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luck_Volt> pasa
+[15Jan2025 01:10:36.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail has completed the challenge [Cannibal]
+[15Jan2025 01:10:41.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> ...
+[15Jan2025 01:11:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: The difficulty has been set to Hard]
+[15Jan2025 01:11:33.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15Jan2025 01:11:39.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved too quickly! -9.764812819987355,0.0,3.447321388196542
+[15Jan2025 01:11:39.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved too quickly! -10.152481265643928,0.0,3.5367738551793764
+[15Jan2025 01:11:39.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved too quickly! -10.541180349817296,0.0,3.621300975418876
+[15Jan2025 01:11:39.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved too quickly! -10.930839508063855,0.0,3.701059377074671
+[15Jan2025 01:11:39.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of KilFail) moved too quickly! -11.321389491713717,0.0,3.7762241558978076
+[15Jan2025 01:11:50.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[15Jan2025 01:11:54.379] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[15Jan2025 01:12:04.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KilFail was slain by Sea Serpent
+[15Jan2025 01:12:04.299] [Server thread/INFO] [tombstone/]: The player KilFail has successfully been saved
+[15Jan2025 01:12:09.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> >:v
+[15Jan2025 01:12:14.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KilFail: Teleported KilFail to 1790.500000, 62.000000, -863.500000]
+[15Jan2025 01:12:18.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luck_Volt was slain by Ladybug
+[15Jan2025 01:12:19.419] [Server thread/INFO] [tombstone/]: The player Luck_Volt has successfully been saved
+[15Jan2025 01:12:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> que nuv
+[15Jan2025 01:12:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Luck_Volt: Teleported Luck_Volt to 2928.500000, 9.000000, 349.500000]
+[15Jan2025 01:12:26.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KilFail> c murio
+[15Jan2025 01:12:42.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
